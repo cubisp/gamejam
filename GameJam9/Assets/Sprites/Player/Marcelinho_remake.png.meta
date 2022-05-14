@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 77a96df8862cd9449ab21fec44e73b6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6075475679333744933
+    second: Marcelinho_remake_0
+  - first:
+      213: 8441957627920873192
+    second: Marcelinho_remake_1
+  - first:
+      213: -5055137605157720485
+    second: Marcelinho_remake_2
+  - first:
+      213: 8396697309482863267
+    second: Marcelinho_remake_3
+  - first:
+      213: 6451768478300304762
+    second: Marcelinho_remake_4
+  - first:
+      213: -2950340886457419089
+    second: Marcelinho_remake_5
+  - first:
+      213: -5012045962078862307
+    second: Marcelinho_remake_6
+  - first:
+      213: 8979777548591642432
+    second: Marcelinho_remake_7
+  - first:
+      213: -473825204985384484
+    second: Marcelinho_remake_8
+  - first:
+      213: -6270512118737001866
+    second: Marcelinho_remake_9
+  - first:
+      213: 3450647550763040799
+    second: Marcelinho_remake_10
+  - first:
+      213: -8292637581073481943
+    second: Marcelinho_remake_11
+  - first:
+      213: 1558434802280635086
+    second: Marcelinho_remake_12
+  - first:
+      213: -7124634178707664095
+    second: Marcelinho_remake_13
+  - first:
+      213: 1935021653687176384
+    second: Marcelinho_remake_14
+  - first:
+      213: -2739797232778858186
+    second: Marcelinho_remake_15
+  - first:
+      213: -3442686055082052600
+    second: Marcelinho_remake_16
+  - first:
+      213: 5144731043291191098
+    second: Marcelinho_remake_17
+  - first:
+      213: -7837590935912291537
+    second: Marcelinho_remake_18
+  - first:
+      213: -5151967792255825786
+    second: Marcelinho_remake_19
+  - first:
+      213: -3517251434782470266
+    second: Marcelinho_remake_20
+  - first:
+      213: -7287516994036560929
+    second: Marcelinho_remake_21
+  - first:
+      213: 4062309049107891720
+    second: Marcelinho_remake_22
+  - first:
+      213: -582929526714097589
+    second: Marcelinho_remake_23
+  - first:
+      213: -7769696852215366093
+    second: Marcelinho_remake_24
+  - first:
+      213: 1699966433570919496
+    second: Marcelinho_remake_25
+  - first:
+      213: 1542602416809790100
+    second: Marcelinho_remake_26
+  - first:
+      213: 2012849615699435902
+    second: Marcelinho_remake_27
+  - first:
+      213: 3641113485125934942
+    second: Marcelinho_remake_28
+  - first:
+      213: -1469298261749491637
+    second: Marcelinho_remake_29
+  - first:
+      213: 7270102514565899003
+    second: Marcelinho_remake_30
+  - first:
+      213: -6325465334000984857
+    second: Marcelinho_remake_31
+  - first:
+      213: -6720326158184766090
+    second: Marcelinho_remake_32
+  - first:
+      213: -4045909825696207924
+    second: Marcelinho_remake_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marcelinho_remake_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 343
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde79c31f039faba0800000000000000
+      internalID: -6075475679333744933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 343
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67f153cbbd72570800000000000000
+      internalID: 8441957627920873192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 343
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eead1a12b88d9b0800000000000000
+      internalID: -5055137605157720485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 343
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa443227bf078470800000000000000
+      internalID: 8396697309482863267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 343
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f6228f39498950800000000000000
+      internalID: 6451768478300304762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 273
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf46868984e07d0800000000000000
+      internalID: -2950340886457419089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 213
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14cb50a0c2a17ab0800000000000000
+      internalID: -5012045962078862307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 213
+        width: 18
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04735d18a149e9c70800000000000000
+      internalID: 8979777548591642432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 215
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1383b8c72ac69f0800000000000000
+      internalID: -473825204985384484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 214
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67226ea537aaaf8a0800000000000000
+      internalID: -6270512118737001866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 214
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f108d444aa923ef20800000000000000
+      internalID: 3450647550763040799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 214
+        width: 20
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7f096e02aaec80800000000000000
+      internalID: -8292637581073481943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 213
+        width: 19
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1b8b123ca0a510800000000000000
+      internalID: 1558434802280635086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 213
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d58f56f6302d90800000000000000
+      internalID: -7124634178707664095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 213
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc86bc11f39ada10800000000000000
+      internalID: 1935021653687176384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 213
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6313e9fcee84af9d0800000000000000
+      internalID: -2739797232778858186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 213
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804b4a5e54f1930d0800000000000000
+      internalID: -3442686055082052600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 213
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37db4c30a1c56740800000000000000
+      internalID: 5144731043291191098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f236022b1984b3390800000000000000
+      internalID: -7837590935912291537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 136
+        width: 18
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6888658d6988088b0800000000000000
+      internalID: -5151967792255825786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 135
+        width: 18
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fce0c8476303fc0800000000000000
+      internalID: -3517251434782470266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 135
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb04d3a7e98dda90800000000000000
+      internalID: -7287516994036560929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8064eef9e88306830800000000000000
+      internalID: 4062309049107891720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ae171fa409e7f0800000000000000
+      internalID: -582929526714097589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e7b37e0ed7c2490800000000000000
+      internalID: -7769696852215366093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844151be67e779710800000000000000
+      internalID: 1699966433570919496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a4b9b99bc686510800000000000000
+      internalID: 1542602416809790100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71eb0a9f041feb10800000000000000
+      internalID: 2012849615699435902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd0db5c65d78230800000000000000
+      internalID: 3641113485125934942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48925ff3010c9be0800000000000000
+      internalID: -1469298261749491637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 77
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2ef55e7b794e460800000000000000
+      internalID: 7270102514565899003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd2dfdace6738a0800000000000000
+      internalID: -6325465334000984857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a1a607fa9cb2a0800000000000000
+      internalID: -6720326158184766090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marcelinho_remake_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 21
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6d1e137a0ad7c0800000000000000
+      internalID: -4045909825696207924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
